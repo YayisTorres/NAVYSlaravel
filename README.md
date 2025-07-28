@@ -133,7 +133,7 @@ Sistema de e-commerce desarrollado con Laravel que proporciona una API REST comp
 
 1. **Clonar el repositorio**
 \`\`\`bash
-git clone https://github.com/YayisTorres/NAVYSlaravel.git
+git clone https://github.com/YayisTorres/NAVYSlaravel
 cd NAVYSlaravel
 \`\`\`
 
@@ -185,9 +185,6 @@ Este es un proyecto en desarrollo. Para contribuir:
 Proyecto desarrollado para fines educativos y comerciales.
 
 ---
-
-# NAVYS Laravel - Documentación Técnica del Backend
-
 ## 🏗️ Arquitectura General
 
 El backend de NAVYS Laravel sigue el patrón MVC (Model-View-Controller) de Laravel, implementando una API REST completa para un sistema de e-commerce. La arquitectura se basa en:
@@ -765,5 +762,3 @@ La arquitectura modular permite extensiones futuras como:
 
 
 NAVYS Laravel no es solo un backend funcional, sino una base sólida para un ecosistema e-commerce completo que puede evolucionar con las necesidades del negocio manteniendo la calidad, seguridad y rendimiento.
-
-Este backend proporciona una base sólida para un e-commerce completo, con manejo robusto de errores, validaciones exhaustivas y una arquitectura escalable que puede crecer según las necesidades del negocio.
