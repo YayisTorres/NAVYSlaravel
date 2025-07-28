@@ -125,6 +125,9 @@ NAVYS Laravel es una API REST completa para un sistema de e-commerce desarrollad
 # NAVYS Laravel Backend
 
 Sistema de e-commerce desarrollado con Laravel que proporciona una API REST completa para la gestión de productos, usuarios, pedidos y carrito de compras.
+# NAVYS Laravel Backend
+
+Sistema de e-commerce desarrollado con Laravel que proporciona una API REST completa para la gestión de productos, usuarios, pedidos y carrito de compras.
 
 ## 🚀 Instalación y Configuración
 
@@ -585,6 +588,7 @@ Servicio híbrido para manejo de imágenes:
 \`\`\`php
 // Intenta guardar localmente, fallback a Firebase
 $imagePath = $this->imageUploadService->upload($image, 'img/imgProducts', $imageName);
+
 
 # 🔄 Flujo de Trabajo Técnico
 
